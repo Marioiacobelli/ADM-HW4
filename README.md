@@ -1,10 +1,10 @@
 # Homework 4 - Recommendation systems and clustering everywhere
 
 ### This homework has been done by Group 15:
-- Francesco iacobelli.1841427@studenti.uniroma1.it
-- Mario mari.1919565@studenti.uniroma1.it
-- Lorenzo incoronato.1916863@studenti.uniroma1.it
-- Eduardo Baldó Chamorro eduardobaldo10@gmail.com
+- Francesco Mari - mari.1919565@studenti.uniroma1.it
+- Mario Iacobelli - iacobelli.1841427@studenti.uniroma1.it
+- Lorenzo Incoronato - incoronato.1916863@studenti.uniroma1.it
+- Eduardo Baldó Chamorro - eduardobaldo10@gmail.com
 
 ## Data used
 For this homework we've used 1 main link, the link of the [UK Netflix audience]([https://www.findamasters.com/](https://www.kaggle.com/datasets/vodclickstream/netflix-audience-behaviour-uk-movies)).
