@@ -7,7 +7,7 @@
 - Eduardo Baldó Chamorro - eduardobaldo10@gmail.com
 
 ## Data used
-For this homework we've used 1 main link, the link of the [UK Netflix audience]([https://www.findamasters.com/](https://www.kaggle.com/datasets/vodclickstream/netflix-audience-behaviour-uk-movies)).
+For this homework we've used 1 main link, the link of the [UK Netflix audience]([https://www.findamasters.com/](https://www.kaggle.com/datasets/vodclickstream/netflix-audience-behaviour-uk-movies).
 
 From this webpage we implement our version of the LSH algorithm first, and the we will do some feature engeneering and clustering
 
