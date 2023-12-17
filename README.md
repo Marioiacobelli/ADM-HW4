@@ -19,7 +19,11 @@ From this webpage we implement our version of the LSH algorithm first, and the w
 
 2. `CommandLine.sh `:
 
-   Here we have the command line from the CLQ question 
+   Here we have the command line from the CLQ question
+
+3. `csv_files `:
+
+   A folder containing two zipped csv files of the dataset used for exercises 2.3 and 2.4 
 
 
 # Master's Degrees from all over! 
